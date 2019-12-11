@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kth largest element", "kth largest element\kth largest element.csproj", "{BF7CCA98-5EE5-4F61-8A28-702401F3BB82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{A04BDA18-277E-4345-AA5C-3F1A6F88772A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF7CCA98-5EE5-4F61-8A28-702401F3BB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7CCA98-5EE5-4F61-8A28-702401F3BB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7CCA98-5EE5-4F61-8A28-702401F3BB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04BDA18-277E-4345-AA5C-3F1A6F88772A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04BDA18-277E-4345-AA5C-3F1A6F88772A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04BDA18-277E-4345-AA5C-3F1A6F88772A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04BDA18-277E-4345-AA5C-3F1A6F88772A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
