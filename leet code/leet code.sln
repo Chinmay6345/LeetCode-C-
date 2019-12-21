@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number III", "Single
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number II", "Single Number II\Single Number II.csproj", "{103AD3BA-C67C-424D-BFF4-7956E703A44D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Duplicate", "Find Duplicate\Find Duplicate.csproj", "{4FF26230-1A74-4A28-A2E4-5CB8CFA3ED83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{103AD3BA-C67C-424D-BFF4-7956E703A44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{103AD3BA-C67C-424D-BFF4-7956E703A44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{103AD3BA-C67C-424D-BFF4-7956E703A44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF26230-1A74-4A28-A2E4-5CB8CFA3ED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF26230-1A74-4A28-A2E4-5CB8CFA3ED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF26230-1A74-4A28-A2E4-5CB8CFA3ED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF26230-1A74-4A28-A2E4-5CB8CFA3ED83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
