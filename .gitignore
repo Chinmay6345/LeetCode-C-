@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /leet code/Valid Anagram
+/leet code/Sequential Digits
