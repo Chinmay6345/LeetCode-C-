@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Duplicate", "Find Dupl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers with Even Number of Digits", "Numbers with Even Number of Digits\Numbers with Even Number of Digits.csproj", "{4C4D0CEA-5CB5-4059-A27A-82A00EFA6DF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "Palindrome Number\Palindrome Number.csproj", "{904FFE72-14A6-4988-A27C-C1C99A3D30F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{4C4D0CEA-5CB5-4059-A27A-82A00EFA6DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C4D0CEA-5CB5-4059-A27A-82A00EFA6DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C4D0CEA-5CB5-4059-A27A-82A00EFA6DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
