@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers with Even Number of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "Palindrome Number\Palindrome Number.csproj", "{904FFE72-14A6-4988-A27C-C1C99A3D30F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move zeros", "Move zeros\Move zeros.csproj", "{8C2A4E0F-AC9F-4E8E-A485-540A49F94795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Maximum", "Third Maximum\Third Maximum.csproj", "{5F8E7C91-4586-4B63-967D-E40CA967AF5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904FFE72-14A6-4988-A27C-C1C99A3D30F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2A4E0F-AC9F-4E8E-A485-540A49F94795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2A4E0F-AC9F-4E8E-A485-540A49F94795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2A4E0F-AC9F-4E8E-A485-540A49F94795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2A4E0F-AC9F-4E8E-A485-540A49F94795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
