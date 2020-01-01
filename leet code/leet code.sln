@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in a rotated array",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in Rotated Sorted Array II", "Search in Rotated Sorted Array II\Search in Rotated Sorted Array II.csproj", "{9D183CDC-4B8D-448C-9CA6-C19BEA52F45D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Insert Position", "Search Insert Position\Search Insert Position.csproj", "{F996797B-8144-4925-A3B2-B2CB402D82E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{9D183CDC-4B8D-448C-9CA6-C19BEA52F45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D183CDC-4B8D-448C-9CA6-C19BEA52F45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D183CDC-4B8D-448C-9CA6-C19BEA52F45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
