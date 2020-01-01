@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move zeros", "Move zeros\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Third Maximum", "Third Maximum\Third Maximum.csproj", "{5F8E7C91-4586-4B63-967D-E40CA967AF5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in a rotated array", "Search in a rotated array\Search in a rotated array.csproj", "{C46215AB-83CA-4146-8520-A3AB62CC1E88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8E7C91-4586-4B63-967D-E40CA967AF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46215AB-83CA-4146-8520-A3AB62CC1E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46215AB-83CA-4146-8520-A3AB62CC1E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46215AB-83CA-4146-8520-A3AB62CC1E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46215AB-83CA-4146-8520-A3AB62CC1E88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
