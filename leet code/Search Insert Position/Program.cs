@@ -26,7 +26,6 @@ namespace Search_Insert_Position
             }
         }
     }
-
     public class Program
     {
         public static void Main(string[] args)

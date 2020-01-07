@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in Rotated Sorted Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Insert Position", "Search Insert Position\Search Insert Position.csproj", "{F996797B-8144-4925-A3B2-B2CB402D82E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique number of occurrences", "Unique number of occurrences\Unique number of occurrences.csproj", "{5D65B920-3E1B-44B7-80B3-F0F58716432C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F996797B-8144-4925-A3B2-B2CB402D82E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D65B920-3E1B-44B7-80B3-F0F58716432C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D65B920-3E1B-44B7-80B3-F0F58716432C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D65B920-3E1B-44B7-80B3-F0F58716432C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D65B920-3E1B-44B7-80B3-F0F58716432C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
