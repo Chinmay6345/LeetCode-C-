@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique number of occurrence
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Array By Parity", "Sort Array By Parity\Sort Array By Parity.csproj", "{4FF8BE19-0007-49BE-8F2C-08A3D0E441F2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contests", "Contests", "{F35FB0E6-A8AF-46E9-AB6C-7A24FB08DB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer to the Sum of Two No-Zero Integers", "Integer to the Sum of Two No-Zero Integers\Integer to the Sum of Two No-Zero Integers.csproj", "{999F2CBA-389C-4650-9C95-DE5E25BAB984}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,9 +115,16 @@ Global
 		{4FF8BE19-0007-49BE-8F2C-08A3D0E441F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF8BE19-0007-49BE-8F2C-08A3D0E441F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF8BE19-0007-49BE-8F2C-08A3D0E441F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999F2CBA-389C-4650-9C95-DE5E25BAB984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999F2CBA-389C-4650-9C95-DE5E25BAB984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999F2CBA-389C-4650-9C95-DE5E25BAB984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999F2CBA-389C-4650-9C95-DE5E25BAB984}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{999F2CBA-389C-4650-9C95-DE5E25BAB984} = {F35FB0E6-A8AF-46E9-AB6C-7A24FB08DB7F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
