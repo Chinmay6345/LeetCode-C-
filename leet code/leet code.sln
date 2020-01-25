@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Last word", "Leng
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort colors", "Sort colors\Sort colors.csproj", "{271F5B40-9606-4984-8C99-1D6555FC4619}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top k frequent words", "Top k frequent words\Top k frequent words.csproj", "{078DAD55-C668-457B-B15B-2870238A971C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{271F5B40-9606-4984-8C99-1D6555FC4619}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271F5B40-9606-4984-8C99-1D6555FC4619}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271F5B40-9606-4984-8C99-1D6555FC4619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078DAD55-C668-457B-B15B-2870238A971C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078DAD55-C668-457B-B15B-2870238A971C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078DAD55-C668-457B-B15B-2870238A971C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078DAD55-C668-457B-B15B-2870238A971C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
