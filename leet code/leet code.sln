@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Mismatchh", "Set Mismat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Palindrome", "Valid Palindrome\Valid Palindrome.csproj", "{51D2472C-9A7B-478E-9B4B-726899C871ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Subarray", "Maximum Subarray\Maximum Subarray.csproj", "{DFEEF60C-9B22-4616-851B-E78D2E8B87EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEEF60C-9B22-4616-851B-E78D2E8B87EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEEF60C-9B22-4616-851B-E78D2E8B87EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEEF60C-9B22-4616-851B-E78D2E8B87EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEEF60C-9B22-4616-851B-E78D2E8B87EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
