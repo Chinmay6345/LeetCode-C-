@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Subarray", "Maximum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Last word", "Length of Last word\Length of Last word.csproj", "{646AA154-E99A-4466-8D72-9F1F2A937CA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort colors", "Sort colors\Sort colors.csproj", "{271F5B40-9606-4984-8C99-1D6555FC4619}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{646AA154-E99A-4466-8D72-9F1F2A937CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{646AA154-E99A-4466-8D72-9F1F2A937CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{646AA154-E99A-4466-8D72-9F1F2A937CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271F5B40-9606-4984-8C99-1D6555FC4619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271F5B40-9606-4984-8C99-1D6555FC4619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271F5B40-9606-4984-8C99-1D6555FC4619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271F5B40-9606-4984-8C99-1D6555FC4619}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
