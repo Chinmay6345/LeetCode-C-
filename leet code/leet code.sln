@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self dividing numbers", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Mismatchh", "Set Mismatchh\Set Mismatchh.csproj", "{1E02639C-000F-4AA9-9001-06D99482EB94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Palindrome", "Valid Palindrome\Valid Palindrome.csproj", "{51D2472C-9A7B-478E-9B4B-726899C871ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{1E02639C-000F-4AA9-9001-06D99482EB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E02639C-000F-4AA9-9001-06D99482EB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E02639C-000F-4AA9-9001-06D99482EB94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51D2472C-9A7B-478E-9B4B-726899C871ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
