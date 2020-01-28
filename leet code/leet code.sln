@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top k frequent words", "Top
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "Group Anagrams\Group Anagrams.csproj", "{3D33439F-522E-4602-A153-3079B1D92112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "Plus One\Plus One.csproj", "{ABAADD55-848A-40A8-8E72-00D429C9B2B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{3D33439F-522E-4602-A153-3079B1D92112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D33439F-522E-4602-A153-3079B1D92112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D33439F-522E-4602-A153-3079B1D92112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
