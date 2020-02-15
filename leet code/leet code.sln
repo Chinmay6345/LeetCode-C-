@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel Sheet Column Number",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel Sheet Column Title", "Excel Sheet Column Title\Excel Sheet Column Title.csproj", "{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagaram", "Valid Anagaram\Valid Anagaram.csproj", "{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,10 @@ Global
 		{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
