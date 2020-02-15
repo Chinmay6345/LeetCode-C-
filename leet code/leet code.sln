@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "Group Ana
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "Plus One\Plus One.csproj", "{ABAADD55-848A-40A8-8E72-00D429C9B2B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate Array", "Rotate Array\Rotate Array.csproj", "{ACA3B232-B6B8-4F5E-B756-46936C1FBB4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Repeated Element in Size 2N Array", "N-Repeated Element in Size 2N Array\N-Repeated Element in Size 2N Array.csproj", "{ECA5EEFC-430C-4307-8E68-46368ED2C544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABAADD55-848A-40A8-8E72-00D429C9B2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA3B232-B6B8-4F5E-B756-46936C1FBB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA3B232-B6B8-4F5E-B756-46936C1FBB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA3B232-B6B8-4F5E-B756-46936C1FBB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA3B232-B6B8-4F5E-B756-46936C1FBB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA5EEFC-430C-4307-8E68-46368ED2C544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA5EEFC-430C-4307-8E68-46368ED2C544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA5EEFC-430C-4307-8E68-46368ED2C544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA5EEFC-430C-4307-8E68-46368ED2C544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
