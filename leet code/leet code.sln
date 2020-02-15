@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Repeated Element in Size 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging an IP Address", "Defanging an IP Address\Defanging an IP Address.csproj", "{9ADB0E28-2EF9-450D-A372-14C7830CBC3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted Array II", "Remove Duplicates from Sorted Array II\Remove Duplicates from Sorted Array II.csproj", "{14ED0D7C-8534-47EE-8260-1E90871A019B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{9ADB0E28-2EF9-450D-A372-14C7830CBC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADB0E28-2EF9-450D-A372-14C7830CBC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADB0E28-2EF9-450D-A372-14C7830CBC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ED0D7C-8534-47EE-8260-1E90871A019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ED0D7C-8534-47EE-8260-1E90871A019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ED0D7C-8534-47EE-8260-1E90871A019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ED0D7C-8534-47EE-8260-1E90871A019B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
