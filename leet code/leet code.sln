@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel Sheet Column Title", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagaram", "Valid Anagaram\Valid Anagaram.csproj", "{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtract the Product and Sum of Digits of an Integer", "Subtract the Product and Sum of Digits of an Integer\Subtract the Product and Sum of Digits of an Integer.csproj", "{F588C1A5-F729-44BA-AAAF-8AAD64793830}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36B00F4-1615-43F3-AA8E-BAF631E11FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F588C1A5-F729-44BA-AAAF-8AAD64793830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F588C1A5-F729-44BA-AAAF-8AAD64793830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F588C1A5-F729-44BA-AAAF-8AAD64793830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F588C1A5-F729-44BA-AAAF-8AAD64793830}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
