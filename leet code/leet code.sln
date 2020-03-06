@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Single Number", "Single Num
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "March 6 Onwards", "March 6 Onwards", "{35729B12-DA6F-4714-9CFE-28E0CC710E43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If N and Its Double Exist", "Check If N and Its Double Exist\Check If N and Its Double Exist.csproj", "{5AE6D425-5026-42D3-A2B5-B906B65ADD3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -253,6 +255,10 @@ Global
 		{2E723E65-5A68-4781-AE46-67ABCA0D5D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E723E65-5A68-4781-AE46-67ABCA0D5D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E723E65-5A68-4781-AE46-67ABCA0D5D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -263,6 +269,7 @@ Global
 		{E50BCAA0-23AC-4A8F-8F1A-9878A78C0BB9} = {216D1D2A-C492-4D09-BD2A-F29633C0A1EF}
 		{A1CF4A18-75AE-4136-A2FA-BD713FA21437} = {9A666B2B-80BE-477A-BEF4-1AEDB94192C4}
 		{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7} = {9A666B2B-80BE-477A-BEF4-1AEDB94192C4}
+		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
