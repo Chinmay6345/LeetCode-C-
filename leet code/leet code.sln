@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check If N and Its Double E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How Many Numbers Are Smaller Than the Current Number", "How Many Numbers Are Smaller Than the Current Number\How Many Numbers Are Smaller Than the Current Number.csproj", "{83159651-4F45-4AEF-88E5-02E1BCC1FC37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the week", "Day of the week\Day of the week.csproj", "{B514A511-656E-4E07-BAFE-A460DCE10888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,10 @@ Global
 		{83159651-4F45-4AEF-88E5-02E1BCC1FC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83159651-4F45-4AEF-88E5-02E1BCC1FC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83159651-4F45-4AEF-88E5-02E1BCC1FC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B514A511-656E-4E07-BAFE-A460DCE10888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B514A511-656E-4E07-BAFE-A460DCE10888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B514A511-656E-4E07-BAFE-A460DCE10888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B514A511-656E-4E07-BAFE-A460DCE10888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -277,6 +283,7 @@ Global
 		{0BEF8C69-6E1D-44E8-8E8C-A43AC802E5E7} = {9A666B2B-80BE-477A-BEF4-1AEDB94192C4}
 		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
 		{83159651-4F45-4AEF-88E5-02E1BCC1FC37} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
+		{B514A511-656E-4E07-BAFE-A460DCE10888} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
