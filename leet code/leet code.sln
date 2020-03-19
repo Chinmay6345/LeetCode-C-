@@ -97,6 +97,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How Many Numbers Are Smalle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day of the week", "Day of the week\Day of the week.csproj", "{B514A511-656E-4E07-BAFE-A460DCE10888}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mono tonic array", "Mono tonic array", "{4CDC051F-D202-4416-9093-A910492B04BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monotonic array", "Monotonic array\Monotonic array.csproj", "{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +275,10 @@ Global
 		{B514A511-656E-4E07-BAFE-A460DCE10888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B514A511-656E-4E07-BAFE-A460DCE10888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B514A511-656E-4E07-BAFE-A460DCE10888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -284,6 +292,8 @@ Global
 		{5AE6D425-5026-42D3-A2B5-B906B65ADD3E} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
 		{83159651-4F45-4AEF-88E5-02E1BCC1FC37} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
 		{B514A511-656E-4E07-BAFE-A460DCE10888} = {35729B12-DA6F-4714-9CFE-28E0CC710E43}
+		{4CDC051F-D202-4416-9093-A910492B04BA} = {216D1D2A-C492-4D09-BD2A-F29633C0A1EF}
+		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06} = {4CDC051F-D202-4416-9093-A910492B04BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
