@@ -105,6 +105,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursion", "Recursion", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nth Triobonacci number", "Nth Triobonacci number\Nth Triobonacci number.csproj", "{BD837797-0B24-4617-BDDA-772F069F0D6E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Lucky Integer in an Array", "Find Lucky Integer in an Array\Find Lucky Integer in an Array.csproj", "{DD6E6508-FB09-4A5B-A285-D843B32BE25A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -287,6 +291,10 @@ Global
 		{BD837797-0B24-4617-BDDA-772F069F0D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD837797-0B24-4617-BDDA-772F069F0D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD837797-0B24-4617-BDDA-772F069F0D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6E6508-FB09-4A5B-A285-D843B32BE25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6E6508-FB09-4A5B-A285-D843B32BE25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6E6508-FB09-4A5B-A285-D843B32BE25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6E6508-FB09-4A5B-A285-D843B32BE25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -303,6 +311,7 @@ Global
 		{4CDC051F-D202-4416-9093-A910492B04BA} = {216D1D2A-C492-4D09-BD2A-F29633C0A1EF}
 		{5DA38F6A-FB35-477C-9AA1-31D8FBADCA06} = {4CDC051F-D202-4416-9093-A910492B04BA}
 		{BD837797-0B24-4617-BDDA-772F069F0D6E} = {278ED363-8667-4833-9715-CE9F258F7C10}
+		{DD6E6508-FB09-4A5B-A285-D843B32BE25A} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
