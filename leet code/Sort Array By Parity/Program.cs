@@ -38,7 +38,17 @@ namespace Sort_Array_By_Parity
             }
             return arr;
         }
-        
+        public static Int32[] TwoLists(Int32[] arr)
+        {
+            if (arr.Length == 1 || arr.Length == 0)
+            {
+                return arr;
+            }
+            List<Int32> lsteven = arr.Where(a => a % 2 == 0).Select(g => g).ToList<Int32>();
+            List<Int32> lstodd = arr.Where(a => a % 2 != 0).Select(g => g).ToList<Int32>();
+            lsteven.AddRange(lstodd);
+            return lsteven.ToArray<Int32>();
+        }
     }
 
     class Program
