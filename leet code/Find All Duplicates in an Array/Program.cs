@@ -62,7 +62,7 @@ namespace Find_All_Duplicates_in_an_Array
                                       .ToList<Int32>();
                 if (elementsTwice.Count() == 0)
                 {
-                    return new List<Int32>(); ;
+                    return new List<Int32>(); 
                 }
                 else
                 {
