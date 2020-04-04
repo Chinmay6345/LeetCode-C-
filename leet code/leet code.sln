@@ -115,6 +115,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{427CAA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create Target Array in the Given Order", "Create Target Array in the Given Order\Create Target Array in the Given Order.csproj", "{4AD06D2C-AAC3-4876-8991-A4C4B833F280}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Duplicates in an Array", "Find All Duplicates in an Array\Find All Duplicates in an Array.csproj", "{010B3467-7ECF-4B9F-A752-D42195034F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,10 @@ Global
 		{4AD06D2C-AAC3-4876-8991-A4C4B833F280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD06D2C-AAC3-4876-8991-A4C4B833F280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD06D2C-AAC3-4876-8991-A4C4B833F280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010B3467-7ECF-4B9F-A752-D42195034F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010B3467-7ECF-4B9F-A752-D42195034F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010B3467-7ECF-4B9F-A752-D42195034F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010B3467-7ECF-4B9F-A752-D42195034F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -324,6 +330,7 @@ Global
 		{DD6E6508-FB09-4A5B-A285-D843B32BE25A} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 		{427CAA99-3B1F-4D3D-A704-54F4D688972E} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
 		{4AD06D2C-AAC3-4876-8991-A4C4B833F280} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
+		{010B3467-7ECF-4B9F-A752-D42195034F31} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
