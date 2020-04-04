@@ -51,6 +51,29 @@ namespace Find_All_Duplicates_in_an_Array
                 throw;
             }
         }
+        public static List<Int32> lstDuplicatesUsingLinq(Int32[] arr)
+        {
+            try
+            {
+                var elementsTwice = arr.GroupBy(g => g)
+                                      .Select(g => new { Key = g.Key, Count = g.Count() })
+                                      .Where(g => g.Count == 2)
+                                      .Select(g => g.Key)
+                                      .ToList<Int32>();
+                if (elementsTwice.Count() == 0)
+                {
+                    return new List<Int32>(); ;
+                }
+                else
+                {
+                    return elementsTwice;
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
     public class Solution
     {
