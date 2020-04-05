@@ -117,6 +117,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create Target Array in the 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Duplicates in an Array", "Find All Duplicates in an Array\Find All Duplicates in an Array.csproj", "{010B3467-7ECF-4B9F-A752-D42195034F31}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strings", "Strings", "{633F8285-3846-4FA9-8D0E-076FE5A9AE3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove All Adjacent Duplicates In String", "Remove All Adjacent Duplicates In String\Remove All Adjacent Duplicates In String.csproj", "{8475359A-7E11-497F-AB06-641F7D5DB9E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -311,6 +315,10 @@ Global
 		{010B3467-7ECF-4B9F-A752-D42195034F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010B3467-7ECF-4B9F-A752-D42195034F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010B3467-7ECF-4B9F-A752-D42195034F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8475359A-7E11-497F-AB06-641F7D5DB9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8475359A-7E11-497F-AB06-641F7D5DB9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8475359A-7E11-497F-AB06-641F7D5DB9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8475359A-7E11-497F-AB06-641F7D5DB9E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -331,6 +339,8 @@ Global
 		{427CAA99-3B1F-4D3D-A704-54F4D688972E} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
 		{4AD06D2C-AAC3-4876-8991-A4C4B833F280} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 		{010B3467-7ECF-4B9F-A752-D42195034F31} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
+		{633F8285-3846-4FA9-8D0E-076FE5A9AE3F} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
+		{8475359A-7E11-497F-AB06-641F7D5DB9E3} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
