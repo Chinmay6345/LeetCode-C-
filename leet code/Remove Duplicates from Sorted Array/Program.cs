@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 //https://leetcode.com/problems/remove-duplicates-from-sorted-array/
@@ -38,6 +39,26 @@ namespace Remove_Duplicates_from_Sorted_Array
             else
             {
                 return count;
+            }
+        }
+        public static Int32 ArrLen(Int32[] arr)
+        {
+            try
+            {
+                if (arr.Length == 0)
+                {
+                    return 0;
+                }
+                HashSet<Int32> HSet = new HashSet<Int32>(arr);
+                for (Int32 i = 0; i < HSet.Count(); i++)
+                {
+                    arr[i] = HSet.ElementAt(i);
+                }
+                return HSet.Count();
+            }
+            catch (Exception)
+            {
+                throw;
             }
         }
     }
