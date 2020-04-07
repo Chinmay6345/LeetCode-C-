@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove All Adjacent Duplica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Numbers Disappeared in an Array", "Find All Numbers Disappeared in an Array\Find All Numbers Disappeared in an Array.csproj", "{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum II - Input array is sorted", "Two Sum II - Input array is sorted\Two Sum II - Input array is sorted.csproj", "{53BC1A08-4D60-4B23-A2ED-106214C656C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -325,6 +327,10 @@ Global
 		{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -348,6 +354,7 @@ Global
 		{633F8285-3846-4FA9-8D0E-076FE5A9AE3F} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
 		{8475359A-7E11-497F-AB06-641F7D5DB9E3} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 		{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
+		{53BC1A08-4D60-4B23-A2ED-106214C656C2} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
