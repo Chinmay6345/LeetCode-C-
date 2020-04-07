@@ -1,45 +1,43 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Two_Sum
 {
     public static class AppHelper
     {
-        public static List<Tuple<int, int>> GetPairBrute(int[] ints, int sum, List<Tuple<int, int>> lst)
+        public static Int32[] BruteForceTSum(Int32[] ints, Int32 target)
         {
-            for (int i = 0; i < ints.Length - 1; i++)
+            try
             {
-                for (int j = i + 1; j < ints.Length; j++)
+                for (Int32 i = 0; i < ints.Length - 1; i++)
                 {
-                    Console.WriteLine("i=" + ints[i] + " j=" + ints[j]);
-                    Console.WriteLine(j);
-                    if (ints[i] + ints[j] == sum)
+                    for (Int32 j = i + 1; j < ints.Length; j++)
                     {
-                        lst.Add(new Tuple<int, int>(i, j));
+                        if (ints[i] + ints[j] == target)
+                            return new Int32[] { i, j };
                     }
                 }
             }
-            return lst;
+            catch (Exception)
+            {
+                throw;
+            }
+            return new Int32[] { };
         }
     }
-
-    public class Program
+    public class Solution
     {
-        public static void Main(string[] args)
+        public Int32[] TwoSum(int[] nums, int target)
         {
-            int[] array = { 3, 2, 3 };
-            var p = AppHelper.GetPairBrute(array, 6, new List<Tuple<int, int>>());
-            List<int> newlist = new List<int>();
-            for (int i = 0; i < p.Count; i++)
+            try
             {
-                newlist.Add(p[i].Item1);
-                newlist.Add(p[i].Item2);
+                return AppHelper.BruteForceTSum(nums, target);
             }
-            int[] returnarray = newlist.ToArray();
-            Console.ReadLine();
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.InnerException.ToString());
+            }
+            return new Int32[] { };
         }
     }
 }
