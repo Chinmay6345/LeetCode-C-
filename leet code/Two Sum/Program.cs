@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 //https://leetcode.com/problems/two-sum/
 /*
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
@@ -26,6 +27,32 @@ namespace Two_Sum
                     {
                         if (ints[i] + ints[j] == target)
                             return new Int32[] { i, j };
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return new Int32[] { };
+        }
+        public static Int32[] TSum(Int32[] arr, Int32 target)
+        {
+            try
+            {
+                Dictionary<Int32, Int32> HMap = new Dictionary<Int32, Int32>();
+                Int32 i;
+                Int32 compliment;
+                for (i = 0; i < arr.Length; i++)
+                {
+                    compliment = target - arr[i];
+                    if (HMap.ContainsKey(arr[i]))
+                    {
+                        return new Int32[] { HMap[arr[i]], i };
+                    }
+                    else if (!HMap.ContainsKey(compliment))
+                    {
+                        HMap.Add(compliment, i);
                     }
                 }
             }
