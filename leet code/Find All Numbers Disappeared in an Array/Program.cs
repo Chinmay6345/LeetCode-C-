@@ -44,6 +44,34 @@ namespace Find_All_Numbers_Disappeared_in_an_Array
                 throw;
             }
         }
+        public static List<Int32> Approach2(Int32[] nums)
+        {
+            try
+            {
+                List<Int32> ret = new List<int>();
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    int val = Math.Abs(nums[i]) - 1;
+                    if (nums[val] > 0)
+                    {
+                        nums[val] = -nums[val];
+                    }
+                }
+
+                for (int i = 0; i < nums.Length; i++)
+                {
+                    if (nums[i] > 0)
+                    {
+                        ret.Add(i + 1);
+                    }
+                }
+                return ret;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
     public class Solution
     {
