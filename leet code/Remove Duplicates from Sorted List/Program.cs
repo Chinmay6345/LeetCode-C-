@@ -50,6 +50,24 @@ namespace Remove_Duplicates_from_Sorted_List
             }
             return head;
         }
+        public ListNode RemoveDuplicates(ListNode head)
+        {
+            ListNode p = head;
+            ListNode q = null;
+            while (p != null && p.next != null)
+            {
+                if (p.val == p.next.val)
+                {
+                    q = p.next.next;
+                    p.next = q;
+                }
+                else
+                {
+                    p = p.next;
+                }
+            }
+            return head;
+        }
     }
     public class Solution
     {
