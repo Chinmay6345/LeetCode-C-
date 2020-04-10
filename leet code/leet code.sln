@@ -125,6 +125,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Numbers Disappeare
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum II - Input array is sorted", "Two Sum II - Input array is sorted\Two Sum II - Input array is sorted.csproj", "{53BC1A08-4D60-4B23-A2ED-106214C656C2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked List", "Linked List", "{B415A7D4-E6B6-43E9-ACA9-4CB51497121C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted List", "Remove Duplicates from Sorted List\Remove Duplicates from Sorted List.csproj", "{507D436D-345B-47AF-8249-B8A7FD18550A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -331,6 +335,10 @@ Global
 		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53BC1A08-4D60-4B23-A2ED-106214C656C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507D436D-345B-47AF-8249-B8A7FD18550A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507D436D-345B-47AF-8249-B8A7FD18550A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507D436D-345B-47AF-8249-B8A7FD18550A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507D436D-345B-47AF-8249-B8A7FD18550A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,6 +363,8 @@ Global
 		{8475359A-7E11-497F-AB06-641F7D5DB9E3} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 		{3C468A6A-D9FD-48CF-99E9-B8106AFBC50C} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 		{53BC1A08-4D60-4B23-A2ED-106214C656C2} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
+		{B415A7D4-E6B6-43E9-ACA9-4CB51497121C} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
+		{507D436D-345B-47AF-8249-B8A7FD18550A} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
