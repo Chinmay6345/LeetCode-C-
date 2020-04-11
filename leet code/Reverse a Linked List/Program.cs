@@ -62,6 +62,19 @@ namespace Reverse_a_Linked_List
             }
             return head;
         }
+        public void ReverseUsingPointers(ListNode head)
+        {
+            ListNode p = head;
+            ListNode q = null;
+            ListNode r = null;
+            while(p!=null)
+            {
+                r = q;
+                q = p;
+                p = p.next;
+                q.next = r;
+            }
+        }
     }
 
     public class Solution
