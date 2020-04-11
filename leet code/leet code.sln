@@ -129,6 +129,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linked List", "Linked List"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted List", "Remove Duplicates from Sorted List\Remove Duplicates from Sorted List.csproj", "{507D436D-345B-47AF-8249-B8A7FD18550A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse a Linked List", "Reverse a Linked List\Reverse a Linked List.csproj", "{567B40FB-6CB9-499D-8A2A-316FE3FD29FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +341,10 @@ Global
 		{507D436D-345B-47AF-8249-B8A7FD18550A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{507D436D-345B-47AF-8249-B8A7FD18550A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{507D436D-345B-47AF-8249-B8A7FD18550A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567B40FB-6CB9-499D-8A2A-316FE3FD29FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567B40FB-6CB9-499D-8A2A-316FE3FD29FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567B40FB-6CB9-499D-8A2A-316FE3FD29FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567B40FB-6CB9-499D-8A2A-316FE3FD29FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -365,6 +371,7 @@ Global
 		{53BC1A08-4D60-4B23-A2ED-106214C656C2} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 		{B415A7D4-E6B6-43E9-ACA9-4CB51497121C} = {7EBA0A87-7209-4E99-8AFC-8FF0CD46F300}
 		{507D436D-345B-47AF-8249-B8A7FD18550A} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
+		{567B40FB-6CB9-499D-8A2A-316FE3FD29FD} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
