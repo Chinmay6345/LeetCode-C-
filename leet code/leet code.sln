@@ -139,6 +139,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middle of Linked List", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete a node in LL", "Delete a node in LL\Delete a node in LL.csproj", "{508C41A8-B549-4B04-BE9A-E720F438CAC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Linked List elements", "Remove Linked List elements\Remove Linked List elements.csproj", "{A3C0C658-A94D-4E55-99AB-B7AF394778A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{508C41A8-B549-4B04-BE9A-E720F438CAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508C41A8-B549-4B04-BE9A-E720F438CAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508C41A8-B549-4B04-BE9A-E720F438CAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C0C658-A94D-4E55-99AB-B7AF394778A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C0C658-A94D-4E55-99AB-B7AF394778A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C0C658-A94D-4E55-99AB-B7AF394778A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C0C658-A94D-4E55-99AB-B7AF394778A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -399,6 +405,7 @@ Global
 		{5D2AC3BD-8BD6-45D7-845F-EDFBFBB13823} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{C42614CC-78F0-4107-8F22-E4889319390C} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{176A3B7F-CB43-4D75-A290-3DE80DB3278D} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
+		{A3C0C658-A94D-4E55-99AB-B7AF394778A2} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
