@@ -145,6 +145,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd EvenLinked List", "Odd 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{BFC87051-68A9-4417-B0AC-7EA4980C545C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Linked Lists", "Intersection of Two Linked Lists\Intersection of Two Linked Lists.csproj", "{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -387,6 +389,10 @@ Global
 		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -420,6 +426,7 @@ Global
 		{A3C0C658-A94D-4E55-99AB-B7AF394778A2} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{BFC87051-68A9-4417-B0AC-7EA4980C545C} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
+		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
