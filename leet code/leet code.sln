@@ -143,6 +143,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Linked List elements
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd EvenLinked List", "Odd EvenLinked List\Odd EvenLinked List.csproj", "{95B22D7B-5DF0-40D2-B2C4-6C79C9650952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two Numbers\Add Two Numbers.csproj", "{BFC87051-68A9-4417-B0AC-7EA4980C545C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC87051-68A9-4417-B0AC-7EA4980C545C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -413,6 +419,7 @@ Global
 		{176A3B7F-CB43-4D75-A290-3DE80DB3278D} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{A3C0C658-A94D-4E55-99AB-B7AF394778A2} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
+		{BFC87051-68A9-4417-B0AC-7EA4980C545C} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
