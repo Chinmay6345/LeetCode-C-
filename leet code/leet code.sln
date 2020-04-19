@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "Add Two 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection of Two Linked Lists", "Intersection of Two Linked Lists\Intersection of Two Linked Lists.csproj", "{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse words in strings", "Reverse words in strings\Reverse words in strings.csproj", "{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -427,6 +433,7 @@ Global
 		{95B22D7B-5DF0-40D2-B2C4-6C79C9650952} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{BFC87051-68A9-4417-B0AC-7EA4980C545C} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{4FA3FCFC-F781-4D68-B269-6E114ECDC2CE} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
+		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
