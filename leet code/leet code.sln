@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth Node From End of
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find first unique character in string", "Find first unique character in string\Find first unique character in string.csproj", "{0A0A5A38-6F4C-4FD9-A7F6-B0336D6ECECC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Characters By Frequency", "Sort Characters By Frequency\Sort Characters By Frequency.csproj", "{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -411,6 +413,10 @@ Global
 		{0A0A5A38-6F4C-4FD9-A7F6-B0336D6ECECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0A5A38-6F4C-4FD9-A7F6-B0336D6ECECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0A5A38-6F4C-4FD9-A7F6-B0336D6ECECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -448,6 +454,7 @@ Global
 		{2C0FBBB5-B19C-4853-A4D8-8D3DF6F31431} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 		{DD9E9671-E343-49D8-997B-FCDD0FCD24E7} = {B415A7D4-E6B6-43E9-ACA9-4CB51497121C}
 		{0A0A5A38-6F4C-4FD9-A7F6-B0336D6ECECC} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
+		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
