@@ -83,7 +83,7 @@ namespace Sort_Characters_By_Frequency
         {
             if (!String.IsNullOrEmpty(s))
             {
-                return AppHelper.FirstNonRepetitiveWord(s);
+                return AppHelper.SortCharacters(s);
             }
             else
             {
