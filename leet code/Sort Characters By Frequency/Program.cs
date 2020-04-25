@@ -46,7 +46,7 @@ namespace Sort_Characters_By_Frequency
 {
     public static class AppHelper
     {
-        public static String FirstNonRepetitiveWord(String str)
+        public static String SortCharacters(String str)
         {
             if (str.Length == 1)
             {
