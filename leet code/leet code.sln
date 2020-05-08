@@ -161,6 +161,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{9B58B62E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Circular Queue", "Design Circular Queue\Design Circular Queue.csproj", "{38157619-D3C0-48DE-BD81-3BF94E636002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design Circular Deque", "Design Circular Deque\Design Circular Deque.csproj", "{27CFED10-AFFA-4737-88D5-5BA34229AE3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -427,6 +429,10 @@ Global
 		{38157619-D3C0-48DE-BD81-3BF94E636002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38157619-D3C0-48DE-BD81-3BF94E636002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38157619-D3C0-48DE-BD81-3BF94E636002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CFED10-AFFA-4737-88D5-5BA34229AE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CFED10-AFFA-4737-88D5-5BA34229AE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CFED10-AFFA-4737-88D5-5BA34229AE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CFED10-AFFA-4737-88D5-5BA34229AE3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -467,6 +473,7 @@ Global
 		{05FC0BDD-4C45-4A91-95D2-0FA78560CBC7} = {633F8285-3846-4FA9-8D0E-076FE5A9AE3F}
 		{9B58B62E-D84D-40B2-B774-B055EC8E1EAD} = {F39E95D0-E1CB-4FE4-82EA-43B35E2CEB11}
 		{38157619-D3C0-48DE-BD81-3BF94E636002} = {9B58B62E-D84D-40B2-B774-B055EC8E1EAD}
+		{27CFED10-AFFA-4737-88D5-5BA34229AE3A} = {9B58B62E-D84D-40B2-B774-B055EC8E1EAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
