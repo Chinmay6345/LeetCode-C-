@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Preorder Traver
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Tree Inorder Traversal", "Binary Tree Inorder Traversal\Binary Tree Inorder Traversal.csproj", "{D53829B6-CA38-446E-B602-9B53561F6612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary tree post order traversal", "Binary tree post order traversal\Binary tree post order traversal.csproj", "{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -457,6 +459,10 @@ Global
 		{D53829B6-CA38-446E-B602-9B53561F6612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53829B6-CA38-446E-B602-9B53561F6612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D53829B6-CA38-446E-B602-9B53561F6612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -503,6 +509,7 @@ Global
 		{2A877724-8920-4CFA-8157-C525087D81A7} = {9EB7D6DB-4C35-417F-8267-25FED1C1994E}
 		{97154138-ABA5-4CBD-9FEC-BDBD1729CB3E} = {2A877724-8920-4CFA-8157-C525087D81A7}
 		{D53829B6-CA38-446E-B602-9B53561F6612} = {2A877724-8920-4CFA-8157-C525087D81A7}
+		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1} = {2A877724-8920-4CFA-8157-C525087D81A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
