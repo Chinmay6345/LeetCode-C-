@@ -2,7 +2,7 @@
 
 ### Topicwise distribution
 
-Arrays
+#### Arrays
   - [1431 Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
   - [442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
@@ -34,3 +34,6 @@ Arrays
   - [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   - [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+  - [136 Single Number](https://leetcode.com/problems/single-number/)
+  - [260 Single Number III](https://leetcode.com/problems/single-number-iii/)
+  - [66 Plus One](https://leetcode.com/problems/plus-one/)
