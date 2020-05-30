@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids With the Greatest Numb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number of Students Doing Homework at a Given Time", "Number of Students Doing Homework at a Given Time\Number of Students Doing Homework at a Given Time.csproj", "{8AD41F7C-B28C-4C31-B992-7F3E2C43FBDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipping an Image", "Flipping an Image\Flipping an Image.csproj", "{CAE60293-847F-4031-AF5D-A451279A3F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -475,6 +477,10 @@ Global
 		{8AD41F7C-B28C-4C31-B992-7F3E2C43FBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD41F7C-B28C-4C31-B992-7F3E2C43FBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD41F7C-B28C-4C31-B992-7F3E2C43FBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE60293-847F-4031-AF5D-A451279A3F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE60293-847F-4031-AF5D-A451279A3F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE60293-847F-4031-AF5D-A451279A3F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE60293-847F-4031-AF5D-A451279A3F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -524,6 +530,7 @@ Global
 		{C4B8CB8E-65CC-4B62-A03B-52B9C4BBA1D1} = {2A877724-8920-4CFA-8157-C525087D81A7}
 		{05ED0887-AF2F-417C-95E0-29284A5D2D74} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 		{8AD41F7C-B28C-4C31-B992-7F3E2C43FBDD} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
+		{CAE60293-847F-4031-AF5D-A451279A3F6F} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
