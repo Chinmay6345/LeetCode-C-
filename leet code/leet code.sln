@@ -189,6 +189,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{97C6BC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make Two Arrays Equal by Reversing Sub-arrays", "Make Two Arrays Equal by Reversing Sub-arrays\Make Two Arrays Equal by Reversing Sub-arrays.csproj", "{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Product of Two Elements in an Array", "Maximum Product of Two Elements in an Array\Maximum Product of Two Elements in an Array.csproj", "{5930B5BF-C01A-40FA-A95E-03182948B5CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -491,6 +493,10 @@ Global
 		{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5930B5BF-C01A-40FA-A95E-03182948B5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5930B5BF-C01A-40FA-A95E-03182948B5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5930B5BF-C01A-40FA-A95E-03182948B5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5930B5BF-C01A-40FA-A95E-03182948B5CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -543,6 +549,7 @@ Global
 		{CAE60293-847F-4031-AF5D-A451279A3F6F} = {427CAA99-3B1F-4D3D-A704-54F4D688972E}
 		{97C6BCE2-78C4-49A3-AD0A-7028486C1FC3} = {2D2B8A25-E4AF-4E17-807D-6CEF5683FFE1}
 		{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
+		{5930B5BF-C01A-40FA-A95E-03182948B5CD} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
