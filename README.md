@@ -40,3 +40,4 @@
   - [1464 Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
   - [832  Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - [1450 Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+  - [665 Non-decreasing Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Non-decreasing%20Array)
