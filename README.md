@@ -6,7 +6,6 @@
   - [1431 Kids With the Greatest Number of Candies](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Kids%20With%20the%20Greatest%20Number%20of%20Candies) 
   - [1389 Create Target Array in the Given Order](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Create%20Target%20Array%20in%20the%20Given%20Order)
   - [442 Find All Duplicates in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Duplicates%20in%20an%20Array)
-  - [448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
