@@ -193,6 +193,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Product of Two Elem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-decreasing Array", "Non-decreasing Array\Non-decreasing Array.csproj", "{4CB04007-C952-4865-80E3-C0D2AE47E9A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Negative Numbers in a Sorted Matrix", "Count Negative Numbers in a Sorted Matrix\Count Negative Numbers in a Sorted Matrix.csproj", "{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -503,6 +505,10 @@ Global
 		{4CB04007-C952-4865-80E3-C0D2AE47E9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB04007-C952-4865-80E3-C0D2AE47E9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CB04007-C952-4865-80E3-C0D2AE47E9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -557,6 +563,7 @@ Global
 		{69B06CE4-D156-4AEF-87AA-DD4FDF7A0C20} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{5930B5BF-C01A-40FA-A95E-03182948B5CD} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{4CB04007-C952-4865-80E3-C0D2AE47E9A7} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
+		{EEEA6DFF-5889-4512-B680-8E5DEB7D1E33} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
