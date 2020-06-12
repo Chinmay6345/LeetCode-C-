@@ -10,7 +10,7 @@
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
   - [905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-  - [1394 Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+  - [1394 Find Lucky Integer in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20Lucky%20Integer%20in%20an%20Array)
   - [1185 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
   - [1287 Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
   - [169 Majority Element](https://leetcode.com/problems/majority-element/)
