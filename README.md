@@ -3,16 +3,14 @@
 ### Topicwise distribution
 
 #### Arrays
-  - [1431 Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-  - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
-  - [442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
-  - [448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-  - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
-  - [1295  Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+  - [1431 Kids With the Greatest Number of Candies](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Kids%20With%20the%20Greatest%20Number%20of%20Candies) 
+  - [1389 Create Target Array in the Given Order](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Create%20Target%20Array%20in%20the%20Given%20Order)
+  - [442 Find All Duplicates in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Duplicates%20in%20an%20Array)
+  - [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
   - [905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
-  - [1394 Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)
+  - [1394 Find Lucky Integer in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20Lucky%20Integer%20in%20an%20Array)
   - [1185 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
   - [1287 Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
   - [169 Majority Element](https://leetcode.com/problems/majority-element/)
@@ -40,3 +38,4 @@
   - [1464 Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
   - [832  Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - [1450 Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+  - [665 Non-decreasing Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Non-decreasing%20Array)
