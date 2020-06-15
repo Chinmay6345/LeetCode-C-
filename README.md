@@ -4,6 +4,7 @@
 
 #### Arrays
   - [1431 Kids With the Greatest Number of Candies](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Kids%20With%20the%20Greatest%20Number%20of%20Candies) 
+  - [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
   - [1389 Create Target Array in the Given Order](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Create%20Target%20Array%20in%20the%20Given%20Order)
   - [442 Find All Duplicates in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Duplicates%20in%20an%20Array)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
@@ -29,7 +30,7 @@
   - [287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - [75 Sort Colors](https://leetcode.com/problems/sort-colors/)
   - [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-  - [80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+  - [80 Remove Duplicates from Sorted Array II](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array%20II)
   - [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - [136 Single Number](https://leetcode.com/problems/single-number/)
