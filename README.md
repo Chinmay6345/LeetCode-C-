@@ -42,3 +42,4 @@
   - [832  Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - [1450 Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
   - [665 Non-decreasing Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Non-decreasing%20Array)
+  - [867 Transpose Matrix](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Transpose%20Matrix)
