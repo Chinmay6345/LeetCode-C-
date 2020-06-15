@@ -203,6 +203,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose Matrix", "Transpo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rank Transform of an Array", "Rank Transform of an Array\Rank Transform of an Array.csproj", "{356C782D-ABDB-4770-92E5-581ABE8C4A5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Mountain Array", "Valid Mountain Array\Valid Mountain Array.csproj", "{C3700506-E42F-4B10-9EA6-B4859D9F874F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -533,6 +535,10 @@ Global
 		{356C782D-ABDB-4770-92E5-581ABE8C4A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{356C782D-ABDB-4770-92E5-581ABE8C4A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{356C782D-ABDB-4770-92E5-581ABE8C4A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3700506-E42F-4B10-9EA6-B4859D9F874F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3700506-E42F-4B10-9EA6-B4859D9F874F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3700506-E42F-4B10-9EA6-B4859D9F874F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3700506-E42F-4B10-9EA6-B4859D9F874F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -592,6 +598,7 @@ Global
 		{3B05822D-ED2B-44C1-9888-39E6E2795C6E} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{FCC125CE-DE24-4B4F-ACF1-E0A96047D87C} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{356C782D-ABDB-4770-92E5-581ABE8C4A5E} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
+		{C3700506-E42F-4B10-9EA6-B4859D9F874F} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
