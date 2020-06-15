@@ -10,6 +10,7 @@
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+  - [1313 Decompress Run-Length Encoded List](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Decompress%20Run-Length%20Encoded%20List)
   - [905 Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
   - [1394 Find Lucky Integer in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20Lucky%20Integer%20in%20an%20Array)
   - [1185 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
