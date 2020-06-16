@@ -11,7 +11,7 @@
   - [1313 Decompress Run-Length Encoded List](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Decompress%20Run-Length%20Encoded%20List)
   - [1287 Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
   - [153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-  -[172 Factorial Trailing Zeroes](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Factorial%20Trailing%20Zeroes)
+  - [172 Factorial Trailing Zeroes](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Factorial%20Trailing%20Zeroes)
   - [1394 Find Lucky Integer in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20Lucky%20Integer%20in%20an%20Array)
   -[1304 Find N Unique Integers Sum up to Zero](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero)
   - [34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
