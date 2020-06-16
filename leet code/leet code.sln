@@ -209,6 +209,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find N Unique Integers Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial Trailing Zeroes", "Factorial Trailing Zeroes\Factorial Trailing Zeroes.csproj", "{C58A76E1-60E3-405F-AD08-4F987F8F560C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Height Checker", "Height Checker\Height Checker.csproj", "{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -551,6 +553,10 @@ Global
 		{C58A76E1-60E3-405F-AD08-4F987F8F560C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C58A76E1-60E3-405F-AD08-4F987F8F560C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C58A76E1-60E3-405F-AD08-4F987F8F560C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -613,6 +619,7 @@ Global
 		{C3700506-E42F-4B10-9EA6-B4859D9F874F} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{2FC9D4F6-59B2-4FA8-ACC3-73CB32C781C6} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{C58A76E1-60E3-405F-AD08-4F987F8F560C} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
+		{C2BDFEF1-A5FA-4943-AB19-701D6EF0B70A} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
