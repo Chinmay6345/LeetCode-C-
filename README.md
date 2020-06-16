@@ -19,6 +19,7 @@
   - [832  Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
+  -[1051 Height Checker](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Height%20Checker)
   - [1431 Kids With the Greatest Number of Candies](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Kids%20With%20the%20Greatest%20Number%20of%20Candies) 
   - [169 Majority Element](https://leetcode.com/problems/majority-element/)
   - [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
