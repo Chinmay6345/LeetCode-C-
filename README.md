@@ -26,7 +26,7 @@
   - [167 Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - [268 Missing Number](https://leetcode.com/problems/missing-number/)
   - [27 Remove Element](https://leetcode.com/problems/remove-element/)
-  - [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - [53 Maximum Subarray](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Maximum%20Subarray)
   - [1 Two Sum](https://leetcode.com/problems/two-sum/)
   - [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - [66 Plus One](https://leetcode.com/problems/plus-one/)
