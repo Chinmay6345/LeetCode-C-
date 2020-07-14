@@ -5,7 +5,6 @@
 #### Arrays
   - [1346 Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
   - [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
-  - [1389 Create Target Array in the Given Order](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Create%20Target%20Array%20in%20the%20Given%20Order)
   - [1389 Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
   - [1185 Day of the Week](https://leetcode.com/problems/day-of-the-week/)
   - [1313 Decompress Run-Length Encoded List](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Decompress%20Run-Length%20Encoded%20List)
