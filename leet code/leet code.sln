@@ -217,6 +217,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyBoard Row", "KeyBoard Ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Running Sum of 1d Array", "Running Sum of 1d Array\Running Sum of 1d Array.csproj", "{767ED93B-431A-4FD2-8B26-B2CF0DFC9AA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jewels and Stones", "Jewels and Stones\Jewels and Stones.csproj", "{03C98C6D-B66A-43D9-8A28-C4A337D785F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -575,6 +577,10 @@ Global
 		{767ED93B-431A-4FD2-8B26-B2CF0DFC9AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{767ED93B-431A-4FD2-8B26-B2CF0DFC9AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{767ED93B-431A-4FD2-8B26-B2CF0DFC9AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C98C6D-B66A-43D9-8A28-C4A337D785F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C98C6D-B66A-43D9-8A28-C4A337D785F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C98C6D-B66A-43D9-8A28-C4A337D785F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C98C6D-B66A-43D9-8A28-C4A337D785F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
