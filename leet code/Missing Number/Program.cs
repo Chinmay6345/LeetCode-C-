@@ -10,17 +10,32 @@ namespace Missing_Number
 {
     public static class AppHelper
     {
-        public static Int32 UsingHSet(Int32 [] arr)
+        public static Int32 XOR(Int32[] arr)
+        {
+            int xor = 0;
+            Int32 n = arr.Length;
+            for (Int32 i = 0; i < n; i++)
+            {
+                xor = xor ^ arr[i];
+            }
+            for (Int32 i = 1; i < n + 1; i++)
+            {
+                xor = xor ^ i;
+            }
+            return xor;
+        }
+
+        public static Int32 UsingHSet(Int32[] arr)
         {
             ISet<Int32> HSet = new HashSet<Int32>();
-            for(Int32 i=0;i<arr.Length;i++)
+            for (Int32 i = 0; i < arr.Length; i++)
             {
                 HSet.Add(arr[i]);
             }
             Int32 totalNoOfElements = arr.Length + 1;
-            for(Int32 i=0;i<totalNoOfElements;i++)
+            for (Int32 i = 0; i < totalNoOfElements; i++)
             {
-                if(!HSet.Contains(i))
+                if (!HSet.Contains(i))
                 {
                     return i;
                 }
