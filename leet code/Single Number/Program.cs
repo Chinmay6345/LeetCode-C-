@@ -5,6 +5,22 @@ namespace Single_Number
 {
     public static class AppHelper
     {
+        public static int BSingleNum(int[] nums)
+        {
+            try
+            {
+                Int32 i = 0, res = 0;
+                for (; i < nums.Length; i++)
+                {
+                    res = res ^ nums[i];
+                }
+                return res;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
         public static int SingleNum(int[] nums)
         {
             try
