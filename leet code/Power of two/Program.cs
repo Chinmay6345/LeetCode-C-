@@ -8,6 +8,15 @@ namespace Power_of_two
 {
     public static class AppHelper
     {
+        public static Boolean BPowerofTwo(Int32 n)
+        {
+            if (n == 0 || n < 0)
+            {
+                return false;
+            }
+            return ((n & n - 1) == 0);
+        }
+
         public static Boolean PowerofTwo(Int32 n)
         {
             if (n == 0)
