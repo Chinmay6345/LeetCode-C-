@@ -96,6 +96,26 @@ namespace Remove_Duplicates_from_Sorted_Array
                 throw;
             }
         }
+        public int RemoveDuplicates(int[] nums)
+        {
+            if (nums.Length == 0)
+            {
+                return 0;
+            }
+            int n = nums.Length;
+
+            int res = 1;
+            for (int i = 1; i < n; i++)
+            {
+
+                if (nums[i] != nums[res - 1])
+                {
+                    nums[res] = nums[i];
+                    res++;
+                }
+            }
+            return res;
+        }
     }
 
 
