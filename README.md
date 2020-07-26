@@ -29,7 +29,7 @@
   - [1 Two Sum](https://leetcode.com/problems/two-sum/)
   - [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - [66 Plus One](https://leetcode.com/problems/plus-one/)
-  - [35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - [35 Search Insert Position](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Search%20Insert%20Position)
  
   - [414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   - [238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
