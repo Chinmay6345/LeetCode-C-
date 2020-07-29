@@ -225,6 +225,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power of two", "Power of tw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tapping rain water", "Tapping rain water\Tapping rain water.csproj", "{B967E512-222A-48CB-BB06-FBC85F66517D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Sum Circular Subarray", "Maximum Sum Circular Subarray\Maximum Sum Circular Subarray.csproj", "{671B46F8-3C58-4FD3-BE57-52D06EF4AD44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -595,6 +597,10 @@ Global
 		{B967E512-222A-48CB-BB06-FBC85F66517D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B967E512-222A-48CB-BB06-FBC85F66517D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B967E512-222A-48CB-BB06-FBC85F66517D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -661,6 +667,7 @@ Global
 		{92355D2B-4D79-4AED-B387-4DD7C0992D88} = {97C6BCE2-78C4-49A3-AD0A-7028486C1FC3}
 		{C1CFDF49-40D5-464C-BF73-739E5719ED9F} = {EE061EB6-6F48-4273-AB56-76BBFBCEBC8D}
 		{B967E512-222A-48CB-BB06-FBC85F66517D} = {EE061EB6-6F48-4273-AB56-76BBFBCEBC8D}
+		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
