@@ -49,6 +49,23 @@ namespace Maximum_Sum_Circular_Subarray
 {
     public static class AppHelper
     {
+        public static Int32 MaxSubarraySumCircular(Int32[] arr, Int32 n)
+        {
+            Int32 result = arr[0];
+            for (Int32 i = 0; i < n; i++)
+            {
+                Int32 currMax = arr[i];
+                Int32 currSum = arr[i];
+                for (Int32 j = 1; j < n; j++)
+                {
+                    Int32 index = (i + j) % n;
+                    currSum += arr[index];
+                    currMax = Math.Max(currSum, currMax);
+                }
+                result = Math.Max(result, currMax);
+            }
+            return result;
+        }
         private static Int32 MaxSumKadaneAlgo(Int32[] arr, Int32 n)
         {
             Int32 result = arr[0];
