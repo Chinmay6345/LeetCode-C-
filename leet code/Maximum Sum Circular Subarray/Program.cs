@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
+
 //https://leetcode.com/problems/maximum-sum-circular-subarray/
 /*
 Given a circular array C of integers represented by A, find the maximum possible sum of a non-empty subarray of C.
