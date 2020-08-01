@@ -21,7 +21,7 @@
   -[1051 Height Checker](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Height%20Checker)
   - [1431 Kids With the Greatest Number of Candies](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Kids%20With%20the%20Greatest%20Number%20of%20Candies) 
   - [169 Majority Element](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Majority%20Element)
-  - [283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - [283 Move Zeroes](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Move%20zeros)
   - [167 Two Sum II - Input array is sorted](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Two%20Sum%20II%20-%20Input%20array%20is%20sorted)
   - [268 Missing Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Missing%20Number)
   - [27 Remove Element](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Element)
