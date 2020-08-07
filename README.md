@@ -11,7 +11,7 @@
   - [1287](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Element%20Appearing%20More%20Than%2025%20perrcent%20In%20Sorted%20Array)
   - [172 Factorial Trailing Zeroes](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Factorial%20Trailing%20Zeroes)
   - [1394 Find Lucky Integer in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20Lucky%20Integer%20in%20an%20Array)
-  -[1304 Find N Unique Integers Sum up to Zero](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20N%20Unique%20Integers%20Sum%20up%20to
+  - [1304 Find N Unique Integers Sum up to Zero](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20N%20Unique%20Integers%20Sum%20up%20to/)
   - [442 Find All Duplicates in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Find%20All%20Duplicates%20in%20an%20Array)
   - [832  Flipping an Image](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Flipping%20an%20Image)
   - [1365 How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
