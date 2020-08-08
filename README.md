@@ -25,7 +25,7 @@
   - [27 Remove Element](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Element)
   - [53 Maximum Subarray](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Maximum%20Subarray)
   - [1 Two Sum](https://leetcode.com/problems/two-sum/)
-  - [26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - [26 Remove Duplicates from Sorted Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array)
   - [66 Plus One](https://leetcode.com/problems/plus-one/)
   - [35 Search Insert Position](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Search%20Insert%20Position)
  
