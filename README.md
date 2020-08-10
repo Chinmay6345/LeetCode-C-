@@ -30,7 +30,6 @@
   - [35 Search Insert Position](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Search%20Insert%20Position)
  
   - [414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
-  - [238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
   - [287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - [75 Sort Colors](https://leetcode.com/problems/sort-colors/)
   - [80 Remove Duplicates from Sorted Array II](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array%20II)
