@@ -37,7 +37,7 @@
   -[1331 Rank Transform of an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Rank%20Transform%20of%20an%20Array)
   - [136 Single Number](https://leetcode.com/problems/single-number/)
   - [977 Squares of a Sorted Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Squares%20of%20a%20Sorted%20Array)
-  - [260 Single Number III](https://leetcode.com/problems/single-number-iii/)
+  - [260 Single Number III](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Single%20Number%20III)
   - [66 Plus One](https://leetcode.com/problems/plus-one/)
   - [1464 Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
   - [1450 Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
