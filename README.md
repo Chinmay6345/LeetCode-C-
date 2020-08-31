@@ -26,7 +26,7 @@
   - [53 Maximum Subarray](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Maximum%20Subarray)
   - [1 Two Sum](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Two%20Sum)
   - [26 Remove Duplicates from Sorted Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array)
-  - [66 Plus One](https://leetcode.com/problems/plus-one/)
+  - [66 Plus One](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Plus%20One)
   - [35 Search Insert Position](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Search%20Insert%20Position)
  
   - [414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
