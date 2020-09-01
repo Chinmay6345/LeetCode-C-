@@ -31,7 +31,7 @@
  
   - [414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   - [287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-  - [75 Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - [75 Sort Colors](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Sort%20colors)
   - [80 Remove Duplicates from Sorted Array II](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array%20II)
   - [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   -[1331 Rank Transform of an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Rank%20Transform%20of%20an%20Array)
