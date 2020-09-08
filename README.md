@@ -40,7 +40,7 @@
   - [260 Single Number III](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Single%20Number%20III)
   - [66 Plus One](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Plus%20One)
   - [1464 Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
-  - [1450 Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)
+  - [1450 Number of Students Doing Homework at a Given Time](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)
   - [905 Sort Array By Parity](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Sort%20Array%20By%20Parity)
   - [665 Non-decreasing Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Non-decreasing%20Array)
   - [867 Transpose Matrix](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Transpose%20Matrix)
