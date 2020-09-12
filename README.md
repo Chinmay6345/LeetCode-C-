@@ -39,7 +39,7 @@
   - [977 Squares of a Sorted Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Squares%20of%20a%20Sorted%20Array)
   - [260 Single Number III](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Single%20Number%20III)
   - [66 Plus One](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Plus%20One)
-  - [1464 Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)
+  - [1464 Maximum Product of Two Elements in an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array)
   - [1450 Number of Students Doing Homework at a Given Time](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time)
   - [905 Sort Array By Parity](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Sort%20Array%20By%20Parity)
   - [665 Non-decreasing Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Non-decreasing%20Array)
