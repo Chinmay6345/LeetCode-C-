@@ -35,7 +35,7 @@
   - [80 Remove Duplicates from Sorted Array II](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Remove%20Duplicates%20from%20Sorted%20Array%20II)
   - [33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   -[1331 Rank Transform of an Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Rank%20Transform%20of%20an%20Array)
-  - [136 Single Number](https://leetcode.com/problems/single-number/)
+  - [136 Single Number](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Single%20Number)
   - [977 Squares of a Sorted Array](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Squares%20of%20a%20Sorted%20Array)
   - [260 Single Number III](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Single%20Number%20III)
   - [66 Plus One](https://github.com/Chinmay6345/LeetCode-C-/tree/master/leet%20code/Plus%20One)
