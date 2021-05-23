@@ -233,6 +233,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stack", "Stack", "{D682DDF1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parenthesis", "Valid Parenthesis\Valid Parenthesis.csproj", "{C1A38B59-9A6E-4164-BE8C-6213C65485B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contiguous Array", "Contiguous Array\Contiguous Array.csproj", "{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -615,6 +617,10 @@ Global
 		{C1A38B59-9A6E-4164-BE8C-6213C65485B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A38B59-9A6E-4164-BE8C-6213C65485B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A38B59-9A6E-4164-BE8C-6213C65485B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -684,6 +690,7 @@ Global
 		{671B46F8-3C58-4FD3-BE57-52D06EF4AD44} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 		{AB4296AD-E205-4C25-9B1D-E23B105C037A} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 		{C1A38B59-9A6E-4164-BE8C-6213C65485B0} = {D682DDF1-2224-4036-A741-0027FC2ACC20}
+		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
