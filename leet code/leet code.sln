@@ -237,6 +237,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contiguous Array", "Contigu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lowest Common Ancestor of a Binary Search Tree-235", "Lowest Common Ancestor of a Binary Search Tree-235\Lowest Common Ancestor of a Binary Search Tree-235.csproj", "{1E5BD38A-ADAC-4ECF-B069-4221721DFA5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "222 Count Complete Tree Nodes", "222 Count Complete Tree Nodes\222 Count Complete Tree Nodes.csproj", "{29106A6B-AED5-4991-9B57-7888D4CBB443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -627,6 +629,10 @@ Global
 		{1E5BD38A-ADAC-4ECF-B069-4221721DFA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5BD38A-ADAC-4ECF-B069-4221721DFA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5BD38A-ADAC-4ECF-B069-4221721DFA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29106A6B-AED5-4991-9B57-7888D4CBB443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29106A6B-AED5-4991-9B57-7888D4CBB443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29106A6B-AED5-4991-9B57-7888D4CBB443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29106A6B-AED5-4991-9B57-7888D4CBB443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -698,6 +704,7 @@ Global
 		{C1A38B59-9A6E-4164-BE8C-6213C65485B0} = {D682DDF1-2224-4036-A741-0027FC2ACC20}
 		{2B953866-FEEF-4739-8E1C-CA0F4DAF6E21} = {6FF3A6E8-03C2-47CB-B5B7-73AFE046783B}
 		{1E5BD38A-ADAC-4ECF-B069-4221721DFA5E} = {2A877724-8920-4CFA-8157-C525087D81A7}
+		{29106A6B-AED5-4991-9B57-7888D4CBB443} = {2A877724-8920-4CFA-8157-C525087D81A7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
