@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
+//https://leetcode.com/problems/validate-binary-search-tree/
 namespace _98_Validate_Binary_Search_Tree
 {
-
     public class TreeNode
     {
         public int val;
