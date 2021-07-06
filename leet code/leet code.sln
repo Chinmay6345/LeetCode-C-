@@ -243,6 +243,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search Tree", "Binar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 Validate Binary Search Tree", "98 Validate Binary Search Tree\98 Validate Binary Search Tree.csproj", "{2655E814-6F49-44AE-9C91-ABA865DCB2BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{44CA05B6-6408-46D0-91C3-43B4E2016995}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -641,6 +643,10 @@ Global
 		{2655E814-6F49-44AE-9C91-ABA865DCB2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2655E814-6F49-44AE-9C91-ABA865DCB2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2655E814-6F49-44AE-9C91-ABA865DCB2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -715,6 +721,7 @@ Global
 		{29106A6B-AED5-4991-9B57-7888D4CBB443} = {2A877724-8920-4CFA-8157-C525087D81A7}
 		{300D350B-7973-45BD-81BA-8E1F071B7DA6} = {9EB7D6DB-4C35-417F-8267-25FED1C1994E}
 		{2655E814-6F49-44AE-9C91-ABA865DCB2BB} = {300D350B-7973-45BD-81BA-8E1F071B7DA6}
+		{44CA05B6-6408-46D0-91C3-43B4E2016995} = {300D350B-7973-45BD-81BA-8E1F071B7DA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
