@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "using System;\nusing System.Linq;\nusing System.Collections.Generic;\n\n\nnamespace _2104._Sum_of_Subarray_Ranges\n{\n    //https://leetcode.com/problems/sum-of-subarray-ranges/description/\n    class Program\n    {\n        static void Main(string[] args)\n        {\n            int[] nums = { 2,9,7,8,3,4,6,1 };\n\n            Console.WriteLine(AppHelper.SubArrayRanges(nums));\n            Console.ReadLine();\n        }\n    }\n    public static class AppHelper\n    {\n        public static long SubArrayRanges(int[] nums)\n        {\n           \n            Stack<int> stack = new Stack<int>();\n            int res = 0;\n            int n = nums.Length;\n            int[] minPrev = new int[n];\n            int[] minNext = new int[n];\n\n\n            for (int i = 0; i < n; i++)\n            {\n                while (stack.Any() && nums[stack.Peek()] > nums[i])\n                {\n                    stack.Pop();\n                }\n\n                if (stack.Any())\n                {\n                    minPrev[i] = i + 1;\n                }\n\n                else\n                {\n                    minPrev[i] = i - stack.Peek();\n                }\n\n                stack.Push(i);\n            }\n\n            stack.Clear();\n            for (int i = n - 1; i >= 0; i--)\n            {\n                while (stack.Any() && nums[stack.Peek()] >= nums[i])\n                    stack.Pop();\n\n                if (stack.Any())\n                {\n                    minNext[i] = n - i;\n                }\n\n                else\n                {\n                    minNext[i] = stack.Peek() - i;\n                }\n\n                stack.Push(i);\n            }\n\n            int MOD = (int)(Math.Pow(10, 9) + 7);\n\n            for (int i = 0; i < n; i++)\n            {\n                res = (res + nums[i] * minPrev[i] * minNext[i]) % MOD;\n            }\n\n            return res;\n        }\n    }\n}\n",
+			"file": "/E/D/ROOF/CODING SOLUTIONS/C# leet code/leet code/2104. Sum of Subarray Ranges/Program.cs",
+			"file_size": 1949,
+			"file_write_time": 133130872077265610,
+			"settings":
+			{
+				"buffer_size": 1864,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"reindent",
+					null,
+					"AQAAAM4CAAAAAAAA2gIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADOAgAAAAAAAM4CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "stack."
+					},
+					"BgAAANoCAAAAAAAA2wIAAAAAAAAAAAAA2wIAAAAAAADcAgAAAAAAAAAAAADcAgAAAAAAAN0CAAAAAAAAAAAAAN0CAAAAAAAA3gIAAAAAAAAAAAAA3gIAAAAAAADfAgAAAAAAAAAAAADfAgAAAAAAAOACAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADaAgAAAAAAANoCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAOACAAAAAAAA4QIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADgAgAAAAAAAOACAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					11,
+					"left_delete",
+					null,
+					"CwAAAOACAAAAAAAA4AIAAAAAAAABAAAAcN8CAAAAAAAA3wIAAAAAAAABAAAALt4CAAAAAAAA3gIAAAAAAAABAAAAa90CAAAAAAAA3QIAAAAAAAABAAAAY9wCAAAAAAAA3AIAAAAAAAABAAAAYdsCAAAAAAAA2wIAAAAAAAABAAAAdNoCAAAAAAAA2gIAAAAAAAABAAAAc9YCAAAAAAAA1gIAAAAAAAAEAAAAICAgINICAAAAAAAA0gIAAAAAAAAEAAAAICAgIM4CAAAAAAAAzgIAAAAAAAAEAAAAICAgIM0CAAAAAAAAzQIAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhAgAAAAAAAOECAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "c",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows",
+				"name": "c"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/D/ROOF/CODING SOLUTIONS/C# leet code/leet code/98 Validate Binary Search Tree/Program.cs"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/D/ROOF/CODING SOLUTIONS/C# leet code/leet code/2104. Sum of Subarray Ranges/Program.cs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "c",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "98 Validate Binary Search Tree.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

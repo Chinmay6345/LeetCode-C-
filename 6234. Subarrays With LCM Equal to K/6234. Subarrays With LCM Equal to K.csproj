@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_6234._Subarrays_With_LCM_Equal_to_K</RootNamespace>
+  </PropertyGroup>
+
+</Project>
