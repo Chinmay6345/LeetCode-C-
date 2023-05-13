@@ -245,6 +245,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 Validate Binary Search T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{44CA05B6-6408-46D0-91C3-43B4E2016995}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 sum closest", "3 sum closest\3 sum closest.csproj", "{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -647,6 +649,10 @@ Global
 		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44CA05B6-6408-46D0-91C3-43B4E2016995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
