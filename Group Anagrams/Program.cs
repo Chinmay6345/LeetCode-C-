@@ -1,42 +1,40 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace Group_Anagrams
 {
-    public static class Solution
+    //https://leetcode.com/problems/group-anagrams/
+    //Tc O(w*nlogn)
+    //Sc O(w*n) =>w is the number of words and n is length of longest word
+    public static class AppHelper
     {
-        public static IList<IList<string>> GroupAnagrams(string[] strs)
+        public static IList<IList<String>> GroupAnagrams(string[] strs)
         {
-            ILookup<String, String> Ilkup = strs.ToLookup(key =>
-                {
-                    var array = key.ToCharArray();
-                    Array.Sort(array);
-                    return new String(array);
-                });
-            var result = Ilkup.Select(grouping => (IList<string>)grouping.ToList()).ToList();
-            List<List<String>> lst = new List<List<string>>();
-            List<string> st = new List<string>();
-            foreach (var i in result)
+            Dictionary<String, IList<String>> valuePairs = new Dictionary<string, IList<String>>();
+            foreach(String word in strs)
             {
-                for (int k = 0; k < i.Count; k++)
+                Char[] arr = word.ToCharArray();
+                Array.Sort(arr);
+                String sortedWord = new string(arr);
+                if(valuePairs.ContainsKey(sortedWord))
                 {
-                    st.Add(i[k].ToString());
+                    valuePairs[sortedWord].Add(word);
                 }
-                lst.Add(st);
-                st = new List<string>();
+                else
+                {
+                    valuePairs[sortedWord] = new List<String>() { word };
+                }
             }
-            return ((IList<IList<String>>)lst.Cast<IList<String>>().ToList());
+            return valuePairs.Values.ToList();
         }
     }
-
     class Program
     {
         static void Main(string[] args)
         {
-            var t = Solution.GroupAnagrams(new string[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+            String [] arr ={"eat", "tea", "tan", "ate", "nat", "bat"};
+            var result = AppHelper.GroupAnagrams(arr);
             Console.ReadLine();
         }
     }

@@ -1,28 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Majority_Element
 {
     //https://leetcode.com/problems/majority-element/
     public static class AppHelper
     {
-        public static int MajorityElement(int [] array)
+        public static Int32 Majority(Int32 [] arr)
         {
-            var p = array.GroupBy(a => a).Select(b => new { Key = b.Key, Count = b.Count() });
-            return p.OrderByDescending(a2 => a2.Count).Select(a1 => a1.Key).FirstOrDefault();
+            Int32 n = arr.Length;
+            Int32 count = 1, res = 0;
+            for(Int32 i=1;i<n;i++)
+            {
+                if (arr[res] == arr[i])
+                    count++;
+                else
+                    count--;
+                if(count==0)
+                {
+                    count = 1;
+                    res = i;
+                }
+            }
+            count = 0;
+            for(Int32 i=0;i<n;i++)
+            {
+                if (arr[res] == arr[i])
+                    count++;
+            }
+            if (count <= n / 2)
+                return -1;
+            return arr[res];
         }
     }
-
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            int[] array =Console.ReadLine().Split(new String[] { "," }, StringSplitOptions.RemoveEmptyEntries).Select(a => int.Parse(a)).ToArray();
-            Console.WriteLine(AppHelper.MajorityElement(array));
-            Console.ReadLine();
+            Console.WriteLine("Hello World!");
         }
     }
 }

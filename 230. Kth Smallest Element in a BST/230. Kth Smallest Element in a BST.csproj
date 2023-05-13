@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_230._Kth_Smallest_Element_in_a_BST</RootNamespace>
+  </PropertyGroup>
+
+</Project>

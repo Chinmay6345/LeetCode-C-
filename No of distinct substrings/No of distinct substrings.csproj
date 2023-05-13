@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>No_of_distinct_substrings</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Program.cs~RF708facdd.TMP" />
+  </ItemGroup>
+
+</Project>

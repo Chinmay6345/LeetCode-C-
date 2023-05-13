@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>G_Morris_Inorder_and_Preorder_Traversal</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2095._Delete_the_Middle_Node_of_a_Linked_List</RootNamespace>
+  </PropertyGroup>
+
+</Project>

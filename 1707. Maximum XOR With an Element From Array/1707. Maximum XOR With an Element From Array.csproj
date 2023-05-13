@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1707._Maximum_XOR_With_an_Element_From_Array</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\421. Maximum XOR of Two Numbers in an Array\421. Maximum XOR of Two Numbers in an Array.csproj" />
+  </ItemGroup>
+
+</Project>

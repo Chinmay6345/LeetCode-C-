@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_129._Sum_Root_to_Leaf_Numbers</RootNamespace>
+  </PropertyGroup>
+
+</Project>

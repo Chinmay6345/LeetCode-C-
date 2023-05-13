@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_1171._Remove_Zero_Sum_Consecutive_Nodes_from_Linked_List</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Singly Linkedlist\Singly Linkedlist.csproj" />
+  </ItemGroup>
+
+</Project>
