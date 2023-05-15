@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kth largest element", "kth 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{A04BDA18-277E-4345-AA5C-3F1A6F88772A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Majority Element", "Majority Element\Majority Element.csproj", "{F0FFB806-721B-4ABB-A008-5E35B49BC9FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Majority Element", "Majority Element\Majority Element.csproj", "{F0FFB806-721B-4ABB-A008-5E35B49BC9FC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happy Numbers", "Happy Numbers\Happy Numbers.csproj", "{AF6A47CA-1F82-4554-9679-1D561A68EF16}"
 EndProject
@@ -61,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort colors", "Sort colors\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Top k frequent words", "Top k frequent words\Top k frequent words.csproj", "{078DAD55-C668-457B-B15B-2870238A971C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "Group Anagrams\Group Anagrams.csproj", "{3D33439F-522E-4602-A153-3079B1D92112}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group Anagrams", "Group Anagrams\Group Anagrams.csproj", "{3D33439F-522E-4602-A153-3079B1D92112}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plus One", "Plus One\Plus One.csproj", "{ABAADD55-848A-40A8-8E72-00D429C9B2B8}"
 EndProject
@@ -243,9 +243,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binary Search Tree", "Binar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "98 Validate Binary Search Tree", "98 Validate Binary Search Tree\98 Validate Binary Search Tree.csproj", "{2655E814-6F49-44AE-9C91-ABA865DCB2BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{44CA05B6-6408-46D0-91C3-43B4E2016995}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{44CA05B6-6408-46D0-91C3-43B4E2016995}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 sum closest", "3 sum closest\3 sum closest.csproj", "{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HashMap", "HashMap", "{F86EF3DA-5782-422B-8316-7456D890F1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "953. Verifying an Alien Dictionary", "..\..\Filtered Solution-One Solution for all\All in one in Vs 17 after format\953. Verifying an Alien Dictionary\953. Verifying an Alien Dictionary.csproj", "{A8318B86-71A3-4131-B6D2-509962FA4DDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -653,6 +657,10 @@ Global
 		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B197CD4-BE3E-412E-BB16-FDFBBE912CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8318B86-71A3-4131-B6D2-509962FA4DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8318B86-71A3-4131-B6D2-509962FA4DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8318B86-71A3-4131-B6D2-509962FA4DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8318B86-71A3-4131-B6D2-509962FA4DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -728,6 +736,7 @@ Global
 		{300D350B-7973-45BD-81BA-8E1F071B7DA6} = {9EB7D6DB-4C35-417F-8267-25FED1C1994E}
 		{2655E814-6F49-44AE-9C91-ABA865DCB2BB} = {300D350B-7973-45BD-81BA-8E1F071B7DA6}
 		{44CA05B6-6408-46D0-91C3-43B4E2016995} = {300D350B-7973-45BD-81BA-8E1F071B7DA6}
+		{A8318B86-71A3-4131-B6D2-509962FA4DDD} = {F86EF3DA-5782-422B-8316-7456D890F1AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8BC4D13-9DC2-4007-8144-F00F74909813}
